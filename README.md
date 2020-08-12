@@ -1,4 +1,7 @@
-# Predictive-Analytics-for-Business-Nano-degree
+# Predictive Analytics for Business using Alteryx designer
+
+**Project Portfolio from Udacity Nano degree**
+
 **Tools Used: Alteryx designer(Predictive tool), tableau**
 
 **Predict diamond prices project:**
